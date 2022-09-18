@@ -9,7 +9,8 @@
  * main - entry point
  *
 (*
- * Description: Longer description of the function)?
+ * Description: The function prints a to z)?
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
