@@ -1,10 +1,15 @@
+/*
+ * File: 2-print_alphabet.c
+ * Auth: Oyebola Daramola
+ */
+
 #include <stdio.h>
 
 /**
  * mian - entry point
  *
  * Description: 'This program writes a to z'
- * 
+ *
  * Return: Always 0.
  */
 
