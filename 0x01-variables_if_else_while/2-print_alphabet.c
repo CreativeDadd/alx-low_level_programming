@@ -1,16 +1,13 @@
-/*
- * c code to print alphabet
- *
- * written by oyebola 
- */
-
 #include <stdio.h>
 
 /**
  * mian - entry point
  *
+ * Description: 'This program writes a to z'
+ * 
  * Return: Always 0.
  */
+
 int main(void)
 {
 	char letter;
