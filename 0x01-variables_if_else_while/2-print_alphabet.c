@@ -6,13 +6,14 @@
 #include <stdio.h>
 
 /**
- * mian - entry point
- *
- * Description: 'This program writes a to z'
- *
- * Return: Always 0.
+ * main - entry point
+ * @parameterx: the funti main is void of arg
+(*
+ * Description: Longer description of the function)?
+(* section header: prints lower case a to z)*
+ * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	char letter;
 
