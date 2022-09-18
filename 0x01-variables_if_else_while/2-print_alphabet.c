@@ -7,7 +7,7 @@
 
 /**
  * main - entry point
- * @parameterx: the funti main is void of arg
+ *
 (*
  * Description: Longer description of the function)?
 (* section header: prints lower case a to z)*
