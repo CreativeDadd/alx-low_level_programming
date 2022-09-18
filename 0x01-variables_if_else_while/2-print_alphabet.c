@@ -1,4 +1,11 @@
+/*
+ * c code to print alphabet
+ *
+ * written by oyebola 
+ */
+
 #include <stdio.h>
+
 /**
  * mian - entry point
  *
