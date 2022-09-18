@@ -10,7 +10,6 @@
  *
 (*
  * Description: Longer description of the function)?
-(* section header: prints lower case a to z)*
  * Return: Always 0 (Success)
  */
 int main(void)
