@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  * mian - entry point
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 	char letter;
