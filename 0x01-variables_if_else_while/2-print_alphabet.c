@@ -10,7 +10,6 @@
  *
 (*
  * Description: The function prints a to z)?
- *
  * Return: Always 0 (Success)
  */
 int main(void)
