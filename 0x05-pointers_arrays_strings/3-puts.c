@@ -25,7 +25,7 @@ void _puts(char *strg)
 
 	while(*(strg + len) != '\0');
 {
-		-putchar(*(strg + len));
+		_putchar(*(strg + len));
 		len++;
 	}
 	_putchar('\n');
