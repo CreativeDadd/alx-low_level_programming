@@ -1,3 +1,4 @@
+#define DOD_H
 /**
  * struct dog - the user defined data type called dog.
  *
